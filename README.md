@@ -135,7 +135,8 @@ Now, your authentication system should be running locally! 🎉
 ## 📌 Screenshots
 
 ### ✨ Signup Page with OTP Verification
-![Homepage Preview](./screenshots/login.png)
+![Homepage Preview](./screenshots/homepage.png)
+![login Preview](./screenshots/loginpage.png)
 
 
 ### ✨ Forgot Password Page
